@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "description": "Slush abstraction focusing on productivity",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunobertolini/slush-productive.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
