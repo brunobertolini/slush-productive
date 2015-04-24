@@ -1,5 +1,9 @@
 # Slush Productive
 
+[![Dependency Status](https://gemnasium.com/brunobertolini/slush-productive.svg)](https://gemnasium.com/brunobertolini/slush-productive)
+
+[![NPM](https://nodei.co/npm/slush-productive.png?downloads=true)](https://nodei.co/npm/slush-productive/)
+
 Slush abstraction focusing on productivity
 
 ## Instalation
@@ -10,7 +14,7 @@ npm install slush-productive gulp
 
 ## Usage 
 
-```
+```javascript
 'use strict';
 
 var questions = [{
