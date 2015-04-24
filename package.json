@@ -1,6 +1,6 @@
 {
   "name": "slush-productive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Slush abstraction focusing on productivity",
   "main": "index.js",
   "scripts": {
