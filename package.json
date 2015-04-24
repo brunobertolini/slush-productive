@@ -1,0 +1,36 @@
+{
+  "name": "slush-productive",
+  "version": "0.0.0",
+  "description": "Slush abstraction focusing on productivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slushgenerator",
+    "slush",
+    "generator",
+    "scaffold"
+  ],
+  "author": {
+    "name": "Bruno Bertolini",
+    "email": "dev@brunobertolini.com",
+    "url": "http://brunobertolini.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/slushjs/slush/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "questioner": "^0.1.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.0.3",
+    "gulp-util": "^3.0.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
